@@ -296,6 +296,7 @@ img{
         height: 100vh;
     }
     .auth-wrapper{
+        margin-top: 10px;
         box-shadow: none !important;
         padding: 24px !important;
         width: unset !important;
